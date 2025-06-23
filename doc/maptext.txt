@@ -1,0 +1,34 @@
+----------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                          |
+|                                                                                                                          |
+|                                                                                                                          |
+|                                                        St. Petersburg                                                    |
+|                                                          /     |    \                                                    |
+|                                                         /      |     Moscow                                              |
+|                                         ___London-----Essen    |     /   |                                               |
+|                   _Montreal--New York__/     |  \     /   |    |    /    |                                               |
+|          Chicago_/     \       /  \          |   \   /    |    |   /    Theran                     Biejing----Seoul      |
+|          /  | |\        \     /    \         |   Paris--Milan  |  /      /  |                          |      /  \       |
+|         /   | | \      Washington   \        |   /   |     \   | /      /   |                          |     /    \      |
+|-San Fransico| |  \      /    |       \______Madrid   |    Istanboul    /    |  Dehli------Kolkata     Shanghai----Tokyo--|
+|/      \     | |   \    /     |               /   \   |    /   |  \    /     |   / |\        |   \       |    |      |    |
+|        \    | |    Atlanta   |              /     \  |   /    |   \  /      |  /  | \       |    \      |    |      |   /|
+|         \   | |         \    |             /       Algeris    |  Baghdad---Karachi|  \      |    Hong Kong   |  Okasa  / |
+|   Los Angeles |          \   |            /               \   |  /    \   /    |  |   \     |    /   |  \ \  |   /    /  |
+|  /         \  |         _Miami           /                 \  | /      \ /     |  |   |     |   /    |   \ \ |  /    /   |
+| /           \ |        /  /             /                  Cario-----Ryadh    Mumbia  |    Bangkok   |    \ Tapie   /    |
+|/          Mexico city_/  /             /                        \                 \   |   /   | \    |     \  |    /     |
+|             \       \   /             /                          \                 \  |  /    |  \   |      \ |   /     /|
+|              \       \ /             /                     ___Khartom              Chennia    | HoChiMinh   Manila     / |
+|               \     Bogota          /       ______Lagos___/    /   |                          |   /         |         /  |
+|                \   /   |  \        /       /         \        /    |                          |  /          |        /   |
+|                 \ /    |   \      /       /           \      /     |                        Jakarta         |       /    |
+|                Lima    |    Sao Paulo____/            Kinsenea     |                              \         |      /     |
+|                   |    |      /                            \       |                               \        |     /      |
+|                   |    |     /                              \      |                                \       |    /       |
+|                   |  Beuno Aires                          Johannesburg                               \      |   /        |
+|                   |                                                                                   \     |  /         |
+|                Santiago                                                                                \    | /          |
+|                                                                                                         Sydney           |
+|                                                                                                                          |
+----------------------------------------------------------------------------------------------------------------------------

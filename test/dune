@@ -1,0 +1,3 @@
+(tests
+ (names board_test player_test game_test)
+ (libraries alcotest pandemicapi qcheck))
